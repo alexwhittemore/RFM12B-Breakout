@@ -1,0 +1,1 @@
+The RFM12B is a pretty popular basic, low-cost RF module. It lets you transmit a FIFO, receive a FIFO, and handles all the RF to do it. It also comes in an SMD package with a 2mm pin pitch, instead of 2.54/100mil. With this PCB, you can breadboard prototype with it.
